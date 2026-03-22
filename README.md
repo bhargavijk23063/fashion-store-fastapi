@@ -1,1 +1,2 @@
-FastAPI Fashion Store Backend Project
+fashion-store-fastapi
+
